@@ -5,6 +5,6 @@
 
 - 🌱 I’m currently learning Web Development
 - 💻 Proficient with HTML, CSS, C, and Python
-- 📧 Email me at : ayesha.m.nagdawala@gmail.com
+- 📧 Email me : ayesha.m.nagdawala@gmail.com
 
 
